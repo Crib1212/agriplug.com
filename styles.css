@@ -1,0 +1,11 @@
+p {
+	background: Green;
+	font-size: 24px;
+}
+	.hotdog p {
+  	background: aqua;
+
+}
+		.hotdog p.mustard {
+  		background: yellow;
+}
